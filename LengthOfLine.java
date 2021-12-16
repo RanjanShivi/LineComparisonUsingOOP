@@ -3,7 +3,7 @@ package com;
 import java.util.Scanner;
 
 public class LengthOfLine {
-    public static double computeLength() {
+    double computeLength() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter co-ordinates for a line: ");
